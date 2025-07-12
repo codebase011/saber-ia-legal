@@ -1,6 +1,6 @@
-# SaberGo - Documentación Legal
+# Saber IA - Documentación Legal
 
-Este repositorio contiene todos los documentos legales para la aplicación **SaberGo**, desarrollada por **Digitalcat Solutions**.
+Este repositorio contiene todos los documentos legales para la aplicación **Saber IA**, desarrollada por **Digitalcat Solutions**.
 
 ## 📋 Archivos Incluidos
 
@@ -75,7 +75,7 @@ Usa estos enlaces en la descripción de tu app en Google Play Store:
 - Diseño moderno con gradientes
 
 ### Elementos Visuales
-- Colores acordes a la identidad de SaberGo
+- Colores acordes a la identidad de Saber IA
 - Iconos descriptivos
 - Tarjetas informativas
 - Animaciones suaves en hover
@@ -104,7 +104,7 @@ Usa estos enlaces en la descripción de tu app en Google Play Store:
 
 ### Modelo de Negocio
 - **Freemium** con contenido básico gratuito
-- **SaberGo Premium** con funcionalidades completas
+- **Saber IA Premium** con funcionalidades completas
 - Planes: Mensual, Trimestral, Semestral, Anual
 
 ## 📞 Contacto
@@ -112,8 +112,8 @@ Usa estos enlaces en la descripción de tu app en Google Play Store:
 Para actualizaciones o modificaciones de estos documentos:
 
 - **Email:** dev.digitalcat@gmail.com
-- **Instagram:** @sabergo.app
-- **TikTok:** @sabergo.app
+- **Instagram:** @saberia.app
+- **TikTok:** @saberia.app
 
 ## 🔄 Actualizaciones
 
@@ -132,10 +132,10 @@ Para actualizaciones o modificaciones de estos documentos:
 - Cumplimiento con normativas de **Google Play Store** y **Apple App Store**
 
 ### Disclaimer
-**SaberGo no está afiliada con el ICFES ni ninguna entidad gubernamental.** Es una herramienta educativa independiente desarrollada por Digitalcat Solutions.
+**Saber IA no está afiliada con el ICFES ni ninguna entidad gubernamental.** Es una herramienta educativa independiente desarrollada por Digitalcat Solutions.
 
 ---
 
 **Digitalcat Solutions**  
-*Desarrollador de SaberGo*  
+*Desarrollador de Saber IA*  
 *Enero 2025* 
