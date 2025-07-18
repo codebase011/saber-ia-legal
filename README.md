@@ -1,6 +1,6 @@
-# Saber IA - Documentación Legal
+# SaberIA - Documentación Legal
 
-Este repositorio contiene todos los documentos legales para la aplicación **Saber IA**, desarrollada por **Digitalcat Solutions**.
+Este repositorio contiene todos los documentos legales para la aplicación **SaberIA**, desarrollada por **Digitalcat Solutions**.
 
 ## 📋 Archivos Incluidos
 
@@ -75,7 +75,7 @@ Usa estos enlaces en la descripción de tu app en Google Play Store:
 - Diseño moderno con gradientes
 
 ### Elementos Visuales
-- Colores acordes a la identidad de Saber IA
+- Colores acordes a la identidad de SaberIA
 - Iconos descriptivos
 - Tarjetas informativas
 - Animaciones suaves en hover
@@ -104,7 +104,7 @@ Usa estos enlaces en la descripción de tu app en Google Play Store:
 
 ### Modelo de Negocio
 - **Freemium** con contenido básico gratuito
-- **Saber IA Premium** con funcionalidades completas
+- **SaberIA Premium** con funcionalidades completas
 - Planes: Mensual, Trimestral, Semestral, Anual
 
 ## 📞 Contacto
@@ -132,10 +132,10 @@ Para actualizaciones o modificaciones de estos documentos:
 - Cumplimiento con normativas de **Google Play Store** y **Apple App Store**
 
 ### Disclaimer
-**Saber IA no está afiliada con el ICFES ni ninguna entidad gubernamental.** Es una herramienta educativa independiente desarrollada por Digitalcat Solutions.
+**SaberIA no está afiliada con el ICFES ni ninguna entidad gubernamental.** Es una herramienta educativa independiente desarrollada por Digitalcat Solutions.
 
 ---
 
 **Digitalcat Solutions**  
-*Desarrollador de Saber IA*  
+*Desarrollador de SaberIA*  
 *Enero 2025* 
